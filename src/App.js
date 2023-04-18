@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        MAP AWS Testing Updated
+        MAP AWS Testing Updated!
       </header>
     </div>
   );
